@@ -1,0 +1,45 @@
+/* Lightbox / Magnific Popup */
+mfp-bg
+mfp-fade
+mfp-ready
+mfp-wrap
+mfp-gallery
+mfp-close-btn-in
+mfp-auto-cursor
+mfp-container
+mfp-s-ready
+mfp-image-holder
+mfp-content
+mfp-figure
+mfp-close
+mfp-img
+mfp-bottom-bar
+mfp-title
+mfp-counter
+mfp-preloader
+mfp-arrow
+mfp-arrow-left
+mfp-arrow-right
+mfp-prevent-close
+
+/* Portfolio / Grid */
+lightbox
+light-box
+gallery
+grid-item
+grid-sizer
+ct-grid
+ct-grid-inner
+masonry
+isotope
+loaded
+animated
+transition
+transform
+
+/* Sélecteurs combinés pour le padding des colonnes */
+.grid-item.col-xl-3
+.grid-item.col-lg-3
+.grid-item.col-md-4
+.grid-item.col-sm-6
+.grid-item.col-xs-12

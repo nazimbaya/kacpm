@@ -1,0 +1,15 @@
+#ct-portfolio-grid-2 .grid-item,
+#ct-portfolio-grid-2 .grid-sizer {
+    padding: 15px; /* pas de padding vertical ni horizontal */
+}
+
+#ct-portfolio-grid-2 .ct-grid-inner {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.grid-item-inner img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
